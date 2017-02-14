@@ -1,16 +1,10 @@
 # Puzzle
 
-AI version of the puzzle(5*5) game.
+AI version of the puzzle(5*5) game. [Play it](https://stevennl.github.io/Puzzle) in your browser!
 
 ## Demo
 
 ![](img/demo.gif)
-
-## Run
-
-1. Clone this repo.
-2. Double click the `index.html` file.
-3. Enjoy it in your browser!
 
 ## Reference
 
